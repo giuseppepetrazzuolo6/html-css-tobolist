@@ -1,0 +1,31 @@
+:root {
+    --bg--tobolist-editorial: #45abe9;
+    --bg--tobolist-q1goals: #9c72e4;
+    --bg--tobolist-mobile: #f29e33; 
+    --bg--tobolist-website: #d863a0;
+    --bg--tobolist-sales: #b0c926;
+    --bg--tobolist-recruiting: #64c0a8;
+    --bg--tobolist-text: #454952;
+    --bg--tobolist-background: #f6f8f9;
+}
+/*color-scheme*/
+body{
+    margin: 0;
+    background-color: var(--bg--tobolist-background);
+}
+header{
+    background-color: white;
+    margin: auto;
+    padding: 5px;
+}
+.logo{
+    height: 60px;
+    vertical-align: middle;
+    margin-left: 2rem;
+}
+.logotext{
+    vertical-align: middle;
+    color: black;
+    font-size: 3.5rem;
+}
+/* header */
