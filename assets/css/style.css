@@ -124,3 +124,9 @@ strong{
     margin-top: 20px;
 }
 /* todolist */
+footer{
+    color: var(--bg--tobolist-editorial);
+    font-size: 10px;
+    text-align: center;
+}
+/*footer*/
