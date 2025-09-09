@@ -29,3 +29,98 @@ header{
     font-size: 3.5rem;
 }
 /* header */
+.wrapper{
+    margin: auto;
+    width: 60%;
+}
+.button{
+    height: 50px;
+    background-color: white;
+    margin-top: 50px;
+    border-top-left-radius: 2%;
+    border-top-right-radius: 2%;
+}
+.taskbutton{
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
+    background-color: var(--bg--tobolist-editorial);
+    border-color: var(--bg--tobolist-editorial);
+    border-radius: 12px;
+    height: 2rem;
+}
+.sectionbutton{
+    border-radius: 12px;
+    color: var(--bg--tobolist-editorial);
+    border-color: var(--bg--tobolist-editorial);
+    height: 2rem;
+}
+/* button */
+.todolist{
+    height: 550px;
+    background-color: white;
+    margin-top: 5px;
+    border-bottom-right-radius: 2%;
+    border-bottom-left-radius: 2%; 
+}
+strong{
+    font-size: 1.2rem;  
+}
+.text{
+    padding: 40px;
+}
+.edit{
+    background-color: var(--bg--tobolist-editorial);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.goals{
+    background-color: var(--bg--tobolist-q1goals);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.rec{
+    background-color: var(--bg--tobolist-recruiting);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.mob{
+    background-color: var(--bg--tobolist-mobile);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.web{
+    background-color: var(--bg--tobolist-website);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.sal{
+    background-color: var(--bg--tobolist-sales);
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    padding: 5px;
+}
+.today{
+    margin-top: 35px;
+}
+.upcoming{
+    margin-top: 35px;
+}
+.m-9{
+    margin-top: 9px;
+}
+.m-20{
+    margin-top: 20px;
+}
+/* todolist */
